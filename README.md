@@ -1,1 +1,1 @@
-# shell_scripting
+# This is where I learn about shell scripting .
